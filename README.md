@@ -10,7 +10,7 @@ To better grasp the idea of the content in this roadmap you are advised to read 
 
 If you're heavily interested in cybersecurity like me, please accept my referral invite below (which will gain you additional 20 cubes when you join HTB):
 ```
-https://referral.hackthebox.com/mzK3YGf
+[https://referral.hackthebox.com/mzXAu5D](https://referral.hackthebox.com/mzXAu5D)
 # 1. Introductory
 ---
 1. Before anything, watch the video below and answer the following questions:
